@@ -30,13 +30,7 @@ A machine learning web application that predicts the resale price of a used car 
 - **Frontend**: HTML, CSS (Bootstrap), JavaScript
 - **Backend**: Python, Flask
 - **ML Tools**: pandas, scikit-learn
-- **Deployment**: (Add if hosted - Render, Heroku, etc.)
+
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/car-price-predictor.git
-   cd car-price-predictor
