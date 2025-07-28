@@ -7,7 +7,8 @@
 
 ## 📸 Live Demo
 
-![Demo Screenshot](demo_screenshot.png) <!-- Replace with actual screenshot path if available -->
+<img src="demo_screenshot.png" alt="Demo Screenshot" width="600"/>
+
 
 ---
 
